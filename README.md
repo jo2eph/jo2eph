@@ -1,6 +1,8 @@
-<h1>WORK IN PROGRESS...</h1>
+> This README.md is a work in progress, but feel free to check it out!
 
-<h1>Intro</h1>
+---
+
+<h1>INTRODUCTION</h1>
 <p>
   Hello! I am <a href="https://www.linkedin.com/in/joseph-lee-243516242/">Joseph Lee</a>. 
   I am an alumni from <b>UC San Diego</b> with a major in <b>B.S. Applied Math</b>.
@@ -14,26 +16,15 @@
   learning to be restricted to just my field (math). Thus, being an applied math major gave me the flexibility to take courses in other fields, such as data science,
   computer science, engineering, business, etc..
   
-  I met a lot of amazing people at UCSD and I am glad to have spent my time forging connections and continuing my education at UCSD.
+  I met a lot of amazing people at UCSD and I am glad to have spent my time making meaningful connections and continuing my education at UCSD.
 
   Here are some of my favorite UCSD courses (in no particular order):
   <ul>
     <li>
-      <b>Data Science in Practice (COGS 108)</b>
-      <ul>
-        <li>Project-based data science course</li>
-        <li>Learned about data science ethics, visualization, geospatial analysis, machine learning, large language model, etc</li>
-        <li>Gave me hands-on experience with teamwork, cooperation, communication, leadership in a data science context</li>
-      </ul>
+      Data Science in Practice (COGS 108)
     </li>
     <li>
       Intro to Mathematical Software (MATH 157)
-      <ul>
-        <li>Think of this course as a CS course in a math course</li>
-        <li>We learned how we can use software and programming language (Julia) in a mathematical context</li>
-        <li>Each week, we learned different topics (number theory, combinatorics, graph theory, statistics, cryptography, etc) and how we can use programming for them</li>
-        <li>Very applicable math course with no proof-writing</li>
-      </ul>
     </li>
     <li>
       Intro to Computational Statistics (MATH 185)
@@ -47,9 +38,12 @@
     <li>
       Hidden Data in Random Matrices (MATH 182 / DSC 155)
     </li>
+    <li>
+      Intro to Cryptography (MATH 187A)
+    </li>
   </ul>
 
-  A list of programming languages I know or have used at UCSD:
+  A list of (programming) languages I know or have used at UCSD:
   <ul>
     <li>Python</li>
     <li>Java</li>
@@ -59,11 +53,45 @@
     <li>R</li>
     <li>C</li>
     <li>C++</li>
+    <li>SQL</li>
+    <li>HTML</li>
+    <li>CSS</li>
   </ul>
 </p>
 
 ---
-<h1>Skills:</h1>
+
+<h1>SKILLS</h1>
+<h2>My Top Soft Skills:</h2>
+<ul>
+  <li>Communication</li>
+  <li>Collaboration</li>
+  <li>Interpersonal Skills</li>
+  <li>Leadership</li>
+  <li>Organization</li>
+  <li>Teamwork</li>
+</ul>
+
+<h2>My Top Technical Skills</h2>
+<ul>
+  <li>Programming</li>
+  <li>NumPy</li>
+  <li>Pandas</li>
+  <li>Scikit-Learn</li>
+  <li>Mathematics</li>
+  <li>Machine Learning</li>
+  <li></li>
+</ul>
 
 ---
-<h1>Interests:</h1>
+
+<h1>OTHERS</h1>
+<h2>Some Book Recommendations:</h2>
+Here are some of my book recommendations (in no particular order):
+<ul>
+  <li>Atomic Habits by James Clear</li>
+  <li>Never Split the Difference by Chris Voss</li>
+  <li>Think Again by Adam Grant</li>
+  <li>Deep Work by Cal Newport</li>
+  <li>Rework by David Heinemeier Hansson and Jason Fried</li>
+</ul>
