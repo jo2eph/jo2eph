@@ -66,6 +66,8 @@
 <ul>
   <li>Communication</li>
   <li>Collaboration</li>
+  <li>Creativity</li>
+  <li>Critical Thinking</li>
   <li>Interpersonal Skills</li>
   <li>Leadership</li>
   <li>Organization</li>
@@ -80,7 +82,9 @@
   <li>Scikit-Learn</li>
   <li>Mathematics</li>
   <li>Machine Learning</li>
-  <li></li>
+  <li>Spreadsheet</li>
+  <li>Procreate Art</li>
+  <li>Data Analysis</li>
 </ul>
 
 ---
