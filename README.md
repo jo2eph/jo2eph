@@ -1,10 +1,19 @@
-> This README.md is a work in progress, but feel free to check it out!
+<h1>
+  LINKS:
+</h1>
+
+ - [https://www.linkedin.com/in/jo2eph/](Connect with me on LinkedIn)
+ - [https://jo2eph.github.io/](My GitHub Personal Page)
+ - [mailto:junhyuk.x.lee@gmail.com](Send me an email)
 
 ---
 
-<h1>INTRODUCTION</h1>
+<h1>
+  INTRODUCTION
+</h1>
+
 <p>
-  Hello! I am <a href="https://www.linkedin.com/in/joseph-lee-243516242/">Joseph Lee</a>. 
+  Hello! I am <a href="https://jo2eph.github.io/">Joseph Lee</a>. 
   I am an alumni from <b>UC San Diego</b> with a major in <b>B.S. Applied Math</b>.
 
   I pursued a math degree for three main reasons:
@@ -61,7 +70,10 @@
 
 ---
 
-<h1>SKILLS</h1>
+<h1>
+  SKILLS
+</h1>
+
 <h2>My Top Soft Skills:</h2>
 <ul>
   <li>Communication</li>
@@ -89,8 +101,13 @@
 
 ---
 
-<h1>OTHERS</h1>
-<h2>Some Book Recommendations:</h2>
+<h1>
+  OTHERS
+</h1>
+
+<h2>
+  Some Book Recommendations:
+</h2>
 Here are some of my book recommendations (in no particular order):
 <ul>
   <li>Atomic Habits by James Clear</li>
