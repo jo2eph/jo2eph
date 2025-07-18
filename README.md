@@ -2,9 +2,9 @@
   LINKS:
 </h1>
 
- - [https://www.linkedin.com/in/jo2eph/](Connect with me on LinkedIn)
- - [https://jo2eph.github.io/](My GitHub Personal Page)
- - [mailto:junhyuk.x.lee@gmail.com](Send me an email)
+ - [LinkedIn](https://www.linkedin.com/in/jo2eph/)
+ - [My GitHub Personal Page](https://jo2eph.github.io/)
+ - [Send me an email](mailto:junhyuk.x.lee@gmail.com)
 
 ---
 
