@@ -86,3 +86,13 @@
         <img alt="VSCode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" title="Visual Studio Codes" width="48px">
 </section>
 
+---
+
+<section id="blogs">
+    <h2>
+        BLOGS
+    </h2>
+    <ul>
+        Click <a href="https://jo2eph.github.io/blog">here</a> for all my past blogs.
+    </ul>
+</section>
