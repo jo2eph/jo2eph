@@ -16,40 +16,31 @@
     </a>
 </p>
 
+<p>
+    Hello, I am <b>Joseph Lee</b>.
+</p>
+
 ---
 
 <section id="about">
-    <h2 align="center">
+    <h2>
         ABOUT ME
     </h2>
-    <p>
-        Hello, I am <b>Joseph Lee</b>.
-    </p>
-    <p>
-        I graduated from <b>UC San Diego</b> with a major in <b>Applied Mathematics</b>.
-    </p>
-    <p>
-        I am interested in <b>Data Science</b>, <b>Statistics</b>, <b>Machine Learning</b>, and <b>applying math to solve real-world problems.</b>
-    </p>
-    <details>
-        <summary>
-            More About Me
-        </summary>
-        <ul>
-            <li>I am a passionate and lifelong learner.</li>
-            <li>I am interested in philosophy</li>
-            <li>I like <a href="https://jo2eph.github.io/book-journal">reading books</a>.</li>
-            <li>My favorite (and first) programming language is Python.</li>
-            <li>I enjoy listening to music and playing the piano.</li>
-            <li>I also like drawing, primarily on the Procreate app.</li>
-        </ul>
-    </details>
+    <ul>
+        <li>I graduated from <b>University of California, San Diego</b>, with a major in <b>Applied Mathematics</b>.</li>
+        <li>My interests primarily lie in <b>Data Science & Statistics</b>, <b>Cybersecurity & Cryptography</b>, <b>Machine Learning</b>.</li>
+        <li>I enjoy <a href="https://jo2eph.github.io/book-journal">reading books</a>.</li>
+        <li>I am a passionate and lifelong <b>learner</b>. I am currently learning more about Deep Learning, cybersecurity, web development.</li>
+        <li>Outside of academics, I enjoy yoga, working out, playing games, anime.</li>
+        <li>I like to <b>draw</b>, primarily on the Procreate app.</li>
+        <li>I enjoy reading about philosophy.</li>
+    </ul>
 </section>
 
 ---
 
 <section id="skills">
-    <h2 align="center">
+    <h2>
         SKILLS
     </h2>
     <h3>
