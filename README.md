@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="jo2eph.github.io">
+    <a href="https://jo2eph.github.io">
         Joseph Lee
     </a>
 </h1>
