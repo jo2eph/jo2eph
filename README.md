@@ -27,13 +27,31 @@
         ABOUT ME
     </h2>
     <ul>
-        <li>I graduated from <b>University of California, San Diego</b>, with a major in <b>Applied Mathematics</b>.</li>
+        <li>I graduated from the <b>University of California, San Diego</b> with a major in <b>Applied Mathematics</b>.</li>
+        <details>
+            <summary>
+                Favorite UCSD courses (unordered)
+            </summary>
+            <ul>
+                <li>Applied Linear Algebra</li>
+                <li>Cryptography</li>
+                <li>Computational Statistics</li>
+                <li>Data Science in Practice</li>
+                <li>Exploratory Data Analysis & Inference</li>
+                <li>Graph Theory</li>
+                <li>Managing Diverse Teams</li>
+                <li>Mathematical Software</li>
+                <li>Numerical Methods & Physical Modeling</li>
+                <li>Optimization in Data Science</li>
+                <li>Statistical Methods</li>
+            </ul>
+        </details>
         <li>My interests primarily lie in <b>Data Science & Statistics</b>, <b>Cybersecurity & Cryptography</b>, <b>Machine Learning</b>.</li>
         <li>I enjoy <a href="https://jo2eph.github.io/book-journal">reading books</a>.</li>
-        <li>I am a passionate and lifelong <b>learner</b>. I am currently learning more about Deep Learning, cybersecurity, web development.</li>
+        <li>I am a passionate and lifelong <b>learner</b>, aiming to learn about almost everything.</li>
         <li>Outside of academics, I enjoy yoga, working out, playing games, anime.</li>
         <li>I like to <b>draw</b>, primarily on the Procreate app.</li>
-        <li>I enjoy reading about philosophy.</li>
+        <li>I enjoy reading about <b>philosophy</b>.</li>
     </ul>
 </section>
 
