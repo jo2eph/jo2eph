@@ -94,7 +94,10 @@
     </h2>
     <p>
         Click <a href="https://jo2eph.github.io/blog">here</a> for all my past blogs.
-    </p>    
+    </p>
+    <h4>
+        Some Highlighted Blogs
+    </h4>
     <ul>
         <li>
             <a href="https://jo2eph.github.io/blog/posts/2025_09_communication_skill/index.html">
