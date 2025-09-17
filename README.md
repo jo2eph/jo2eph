@@ -17,7 +17,8 @@
 </p>
 
 <p>
-    Hello, I am <b>Joseph Lee</b>.
+    Hello, I am <b>Junhyuk Lee</b>.
+    Many of you may know me as Joseph.
 </p>
 
 ---
