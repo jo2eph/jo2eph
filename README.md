@@ -105,5 +105,10 @@
                 The One Skill Every STEM Major Needs — But No One Teaches
             </a>
         </li>
+        <li>
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_17_reflection_on_uchicago_writing/index.html">
+                A Reflection on UChicago's “Craft of Writing Effectively”
+            </a>
+        </li>
     </ul>
 </section>
