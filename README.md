@@ -101,7 +101,7 @@
     </h4>
     <ul>
         <li>
-            <a href="https://jo2eph.github.io/blog/posts/2025_09_communication_skill/index.html">
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_15_communication_skill/index.html">
                 The One Skill Every STEM Major Needs — But No One Teaches
             </a>
         </li>
