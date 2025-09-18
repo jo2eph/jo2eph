@@ -101,12 +101,12 @@
     </h4>
     <ul>
         <li>
-            <a href="https://jo2eph.github.io/blog/posts/2025/09_15_communication_skill/index.html">
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_15_communication_skill/">
                 The One Skill Every STEM Major Needs — But No One Teaches
             </a>
         </li>
         <li>
-            <a href="https://jo2eph.github.io/blog/posts/2025/09_17_reflection_on_uchicago_writing/index.html">
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_18_reflection_on_uchicago_writing/">
                 A Reflection on UChicago's “Craft of Writing Effectively”
             </a>
         </li>
