@@ -20,6 +20,8 @@
     Hello, I am <b>Junhyuk Lee</b>.
     <br>
     Many of you may know me as Joseph.
+    <br>
+    Click <a href="https://jo2eph.github.io">here</a> for my personal GitHub Page
 </p>
 
 ---
