@@ -152,7 +152,8 @@
 
 ---
 
-<a href="#top">
-    Jump to Top
-</a>
-
+<div align="center">
+    <a href="#top">
+        Jump to Top
+    </a>
+</div>
