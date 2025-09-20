@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://jo2eph.github.io">
-        Joseph Lee
+        JOSEPH LEE
     </a>
 </h1>
 
