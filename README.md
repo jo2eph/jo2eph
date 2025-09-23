@@ -131,6 +131,12 @@
         BLOGS
     </h2>
     <p>
+        This is my personal blog, where I explore ideas, share projects, personal thoughts, and break down complex concepts across STEM and beyond.
+        <br>
+        Whether you're a student, professional, academic, or just someone who loves learning, you’ll find posts here that aim to inform, inspire, and occasionally challenge the way we
+        think about STEM. Anyone from any field is welcome, as I'm someone who's navigating it all and learning along the way as well.
+    </p>
+    <p>
         Click <a href="https://jo2eph.github.io/blog">here</a> for all my past blogs.
     </p>
     <h4>
