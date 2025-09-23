@@ -147,6 +147,11 @@
                 A Reflection on UChicago's “Craft of Writing Effectively”
             </a>
         </li>
+        <li>
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_22_cybersecurity_for_everyone/">
+                Cybersecurity for Everyone: Protect Yourself Online Without Being a Tech Expert
+            </a>
+        </li>
     </ul>
 </section>
 
