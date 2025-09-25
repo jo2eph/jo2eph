@@ -53,7 +53,7 @@
         <li>My interests primarily lie in <b>Data Science & Statistics</b>, <b>Cybersecurity & Cryptography</b>, <b>Machine Learning</b>.</li>
         <li>I enjoy <a href="https://jo2eph.github.io/book-journal">reading books</a>.</li>
         <li>I am a passionate and lifelong <b>learner</b>, aiming to learn about almost everything.</li>
-        <li>Outside of academics, I enjoy yoga, working out, playing games, anime.</li>
+        <li>Outside of academics, I enjoy yoga, working out, playing games, and watching anime.</li>
         <li>I like to <b>draw</b>, primarily on the Procreate app.</li>
         <li>I enjoy reading about <b>philosophy</b>.</li>
     </ul>
