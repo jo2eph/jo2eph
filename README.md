@@ -43,6 +43,7 @@
                 <li>Data Science in Practice</li>
                 <li>Exploratory Data Analysis & Inference</li>
                 <li>Graph Theory</li>
+                <li>Hidden Data in Random Matrices</li>
                 <li>Managing Diverse Teams</li>
                 <li>Mathematical Software</li>
                 <li>Numerical Methods & Physical Modeling</li>
