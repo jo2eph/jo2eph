@@ -132,7 +132,7 @@
         BLOGS
     </h2>
     <p>
-        This is my **personal blog**, where I share personal thoughts, experiences, and knowledge on various topics,
+        This is my personal blog, where I share personal thoughts, experiences, and knowledge on various topics,
         <br>
         including STEM, learning, productivity, self-improvement, and more.
         <br>
