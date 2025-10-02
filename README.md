@@ -132,10 +132,12 @@
         BLOGS
     </h2>
     <p>
-        This is my personal blog, where I explore ideas, share projects, personal thoughts, and break down complex concepts across STEM and beyond.
+        This is my **personal blog**, where I share personal thoughts, experiences, and knowledge on various topics,
         <br>
-        Whether you're a student, professional, academic, or just someone who loves learning, you’ll find posts here that aim to inform, inspire, and occasionally challenge the way we
-        think about STEM. Anyone from any field is welcome, as I'm someone who's navigating it all and learning along the way as well.
+        including STEM, learning, productivity, self-improvement, and more.
+        <br>
+        Whether you're a student, professional, academic, or just someone who loves learning,
+        you'll find posts here that aim to inform, inspire, and occasionally challenge the way we think about STEM.
     </p>
     <p>
         Click <a href="https://jo2eph.github.io/blog">here</a> for all my past blogs.
@@ -144,6 +146,11 @@
         Some Highlighted Blogs
     </h4>
     <ul>
+        <li>
+            <a href="https://jo2eph.github.io/blog/posts/2025/09_22_cybersecurity_for_everyone/">
+                Cybersecurity for Everyone: Protect Yourself Online Without Being a Tech Expert
+            </a>
+        </li>
         <li>
             <a href="https://jo2eph.github.io/blog/posts/2025/09_15_communication_skill/">
                 The One Skill Every STEM Major Needs — But No One Teaches
@@ -154,12 +161,18 @@
                 A Reflection on UChicago's “Craft of Writing Effectively”
             </a>
         </li>
-        <li>
-            <a href="https://jo2eph.github.io/blog/posts/2025/09_22_cybersecurity_for_everyone/">
-                Cybersecurity for Everyone: Protect Yourself Online Without Being a Tech Expert
-            </a>
-        </li>
     </ul>
+</section>
+
+--
+
+<section id="projects">
+    <h2>
+        PROJECTS
+    </h2>
+    <p>
+        To be added...
+    </p>
 </section>
 
 ---
