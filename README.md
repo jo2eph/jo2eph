@@ -31,7 +31,7 @@
         ABOUT ME
     </h2>
     <ul>
-        <li>I graduated from the <b>University of California, San Diego</b> with a major in <b>Applied Mathematics</b>.</li>
+        <li>I graduated from the <b>University of California, San Diego</b> with a major in <b>B.S. Applied Mathematics</b>.</li>
         <details>
             <summary>
                 Favorite UCSD courses (unordered)
@@ -57,6 +57,7 @@
         <li>Outside of academics, I enjoy yoga, working out, playing games, and watching anime.</li>
         <li>I like to <b>draw</b>, primarily on the Procreate app.</li>
         <li>I enjoy reading about <b>philosophy</b>.</li>
+        <li>I LOVE cute animals, especially cats and dogs! :)</li>
     </ul>
 </section>
 
