@@ -167,17 +167,6 @@
 
 ---
 
-<section id="projects">
-    <h2>
-        PROJECTS
-    </h2>
-    <p>
-        To be added...
-    </p>
-</section>
-
----
-
 <div align="center">
     <a href="#top">
         Jump to Top
