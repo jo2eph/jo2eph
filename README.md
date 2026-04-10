@@ -4,6 +4,10 @@
     </a>
 </h1>
 
+<h3 align="center">
+    Data Analyst & Applied Mathematics
+</h3>
+
 <p align="center">
     <a href="mailto:junhyuk.x.lee@gmail.com">
         <img alt="Email" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" title="Send me an email" width="42px"> 
@@ -90,40 +94,6 @@
         <img alt="RegEx" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" title="Regular Expressions" width="48px">
         <img alt="Scikit-Learn" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" title="Scikit-Learn" width="48px">
         <img alt="VSCode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" title="Visual Studio Codes" width="48px">
-    <h3>
-        Interpersonal
-    </h3>
-        <table>
-            <tr>
-                <td>
-                    <ul>
-                        <li>Agile</li>
-                        <li>Adaptability</li>
-                        <li>Attention to Detail</li>
-                        <li>Collaboration</li>
-                        <li>Critical thinking</li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>Creativity</li>
-                        <li>Diverse teams</li>
-                        <li>Leadership</li>
-                        <li>Organization skills</li>
-                        <li>Project management</li>
-                    </ul>
-                </td>
-                <td>
-                    <ul>
-                        <li>Presentation skills</li>
-                        <li>Public Speaking</li>
-                        <li>Teaching</li>
-                        <li>Teamwork</li>
-                        <li>Written & Verbal Communication</li>
-                    </ul>
-                </td>
-            </tr>
-        </table>
 </section>
 
 ---
