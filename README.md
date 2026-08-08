@@ -61,8 +61,7 @@
         <li>I strive to be a self-taught data analyst.</li>
         <li>Outside of academics, I enjoy yoga, working out, playing games, learning foreign languages, and watching anime.</li>
         <li>Trying to learn Japanese, Mandarin.</li>
-        <li>I like to <b>draw</b>, primarily on the Procreate app, and create fictional stories.</li>
-        <li>I enjoy reading about <b>philosophy</b>.</li>
+        <li>I like to <b>draw</b>, primarily on the Procreate app, and write stories.</li>
         <li>HAALAND, HAALAND! HE'S A BLUE JUST LIKE HIS DAD!</li>
         <li>I LOVE cute animals, especially cats and dogs! :)</li>
     </ul>
@@ -136,6 +135,17 @@
             </a>
         </li>
     </ul>
+</section>
+
+---
+
+<section id="projects">
+    <h2>
+        PROJECTS
+    </h2>
+    <p>
+        To be added...
+    </p>
 </section>
 
 ---
