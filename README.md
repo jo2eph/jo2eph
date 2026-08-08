@@ -55,12 +55,15 @@
                 <li>Statistical Methods</li>
             </ul>
         </details>
-        <li>My interests primarily lie in <b>Data Science & Statistics</b>, <b>Cybersecurity & Cryptography</b>, <b>Machine Learning</b>.</li>
+        <li>My interests primarily lie in <b>Data Science & Statistics</b>.</li>
         <li>I enjoy <a href="https://jo2eph.github.io/book-journal">reading books</a>.</li>
         <li>I am a passionate and lifelong <b>learner</b>, aiming to learn about almost everything.</li>
-        <li>Outside of academics, I enjoy yoga, working out, playing games, and watching anime.</li>
-        <li>I like to <b>draw</b>, primarily on the Procreate app.</li>
+        <li>I strive to be a self-taught data analyst.</li>
+        <li>Outside of academics, I enjoy yoga, working out, playing games, learning foreign languages, and watching anime.</li>
+        <li>Trying to learn Japanese, Mandarin.</li>
+        <li>I like to <b>draw</b>, primarily on the Procreate app, and create fictional stories.</li>
         <li>I enjoy reading about <b>philosophy</b>.</li>
+        <li>HAALAND, HAALAND! HE'S A BLUE JUST LIKE HIS DAD!</li>
         <li>I LOVE cute animals, especially cats and dogs! :)</li>
     </ul>
 </section>
