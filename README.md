@@ -86,15 +86,17 @@
         <img alt="MATLAB" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Matlab-Dark.svg" title="MATLAB" width="48px">
         <img alt="R" src="https://github.com/tandpfun/skill-icons/raw/main/icons/R-Dark.svg" title="R" width="48px">
     <h3>
-        Tools
+        Technical
     </h3>
         <img alt="Bash" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" title="Bash" width="48px">
         <img alt="Git" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" title="Git" width="48px">
         <img alt="GitHub" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" title="GitHub" width="48px">
         <img alt="LaTeX" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LaTeX-Dark.svg" title="LaTeX" width="48px">
+        <img alt="NodeJS" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" title="NodeJS" width="48px">
         <img alt="React" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" title="React" width="48px">
         <img alt="RegEx" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Regex-Dark.svg" title="Regular Expressions" width="48px">
         <img alt="Scikit-Learn" src="https://github.com/tandpfun/skill-icons/raw/main/icons/ScikitLearn-Dark.svg" title="Scikit-Learn" width="48px">
+        <img alt="SQL" src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" title="SQL" width="48px">
         <img alt="VSCode" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" title="Visual Studio Codes" width="48px">
 </section>
 
