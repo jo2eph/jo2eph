@@ -60,7 +60,6 @@
         <li>Outside of academics, I enjoy yoga, working out, playing games, learning foreign languages, reaing, and watching anime.</li>
         <li>Language I know how to speak / am currently learning: English, Korean, Spanish, Japanese, Mandarin</li>
         <li>I like to <b>draw</b>, primarily on the Procreate app, and write stories.</li>
-        <li>HAALAND, HAALAND! HE'S A BLUE JUST LIKE HIS DAD!</li>
         <li>I LOVE cute animals, especially cats and dogs! :)</li>
     </ul>
 </section>
