@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-    Data Analyst & Applied Mathematics
+    Applied Mathematics | Data Analyst | Developer
 </h3>
 
 <p align="center">
